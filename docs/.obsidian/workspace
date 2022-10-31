@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "462471a6718c10c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d4f79aca00989b8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Assets/Blanks/Blank Person.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a7c2794ce9d7b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb913b3c244190c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e770fefeb6781668",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed8ec400dbbc02cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bef56358f1429fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4f5083db00beeaae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4ceed01afd9319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da800664f7184cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assets/Blanks/Blank Person.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "054df19db377b124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assets/Blanks/Blank Person.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d63227ae7716c0d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88f22d454f81dedb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/Blanks/Blank Person.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9d4f79aca00989b8",
+  "lastOpenFiles": [
+    "Assets/Blanks/Blank Location.md",
+    "Census/Kindred/Riemi Tazuka.md",
+    "Locations/Esplanade Ridge.md",
+    "Locations/Algiers.md",
+    "Locations/West Bank.md",
+    "Locations/Uptown.md",
+    "Locations/Treme.md",
+    "Locations/New Orleans East.md",
+    "Locations/Mid-City.md",
+    "Locations/Metaire.md"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "462471a6718c10c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2566c9dd023f49d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb601967a1539dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/West Bank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2197f398cebac25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Blanks/Blank Kindred.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd9b6233c0e0622",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a36748aed9dae63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Census/Kindred/Marcellin Thibodeaux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "756e3df48c751891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Census/Humans/Neara Poterc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c360cfae41bbe6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Tulane University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a7c2794ce9d7b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb913b3c244190c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e770fefeb6781668",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed8ec400dbbc02cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bef56358f1429fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f5083db00beeaae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4ceed01afd9319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da800664f7184cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factions/Tulane University.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "054df19db377b124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Factions/Tulane University.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d63227ae7716c0d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88f22d454f81dedb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Factions/Tulane University.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c360cfae41bbe6bf",
+  "lastOpenFiles": [
+    "Factions/The Martin Fisher Foundation.md",
+    "Factions/Second Inquisition.md",
+    "Factions/Kids First.md",
+    "Factions/Savietti Crime Family.md",
+    "Factions/Tulane University.md",
+    "Factions/New Orleans Police Department - NOPD.md",
+    "Assets/Blanks/Blank Factions.md",
+    "Factions/Camarilla New Orleans.md",
+    "Factions/Anarch New Orleans.md",
+    "Assets/Blanks/Blank Location.md"
+  ]
+}
